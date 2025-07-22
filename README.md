@@ -1,4 +1,4 @@
-# 🌍 Investigating prominent factor affecting E-commerce development
+# 🌍 Investigating prominent factors affecting E-commerce development
 
 ## 📌 Objective
 
@@ -23,7 +23,7 @@ This project aims to identify and model the most prominent factors affecting e-c
 ## 📁 Project Structure
 
 ```
-rural-ecommerce-readiness/
+ecommerce-readiness/
 ├── data/                        # Raw dataset (.csv)
 ├── notebooks/                   # 10 modular Jupyter notebooks
 ├── outputs/                     # Saved models and metrics
