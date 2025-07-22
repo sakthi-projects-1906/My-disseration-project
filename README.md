@@ -1,12 +1,9 @@
 # 🌍 Investigating prominent factor affecting E-commerce development
 
-This project aims to identify and model the most prominent factors affecting e-commerce adoption in developing nations, particularly in rural areas. It uses advanced feature engineering, interpretable machine learning models, and explainability tools to build a robust, scalable, and reproducible pipeline.
-
----
-
 ## 📌 Objective
 
-To predict e-commerce readiness scores for rural communities based on socioeconomic, infrastructural, and behavioral indicators — and to explain those predictions in a way that is useful to policy makers, NGOs, and technology startups.
+This project aims to identify and model the most prominent factors affecting e-commerce adoption in developing nations, particularly in rural areas. It uses advanced feature engineering, interpretable machine learning models, and explainability tools to build a robust, scalable, and reproducible pipeline.
+
 
 ---
 
@@ -92,8 +89,9 @@ pip install -r requirements.txt
 
 ## 🤝 Contributors
 
-- **You** — as the researcher/developer
-- Supervised by academic/research mentors
+- **Sakthimurugan Karnan** — as the researcher/developer
+- **Sanusi,Usman** — as the Supervisor/research mentor
+- **Swaraj Dash** — as the Co-Supervisor/2nd Reader
 
 ---
 
