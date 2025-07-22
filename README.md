@@ -5,7 +5,7 @@
 This project aims to identify and model the most prominent factors affecting e-commerce adoption in developing nations, particularly in rural areas. It uses advanced feature engineering, interpretable machine learning models, and explainability tools to build a robust, scalable, and reproducible pipeline.
 
 
----
+
 
 ## 🧠 Key Features
 
@@ -18,7 +18,7 @@ This project aims to identify and model the most prominent factors affecting e-c
 - **Diagnostics:** Residuals, Prediction Error plots, cross-validation
 - **Deployment Ready:** Designed for integration into a dashboard (e.g. Streamlit or Dash)
 
----
+
 
 ## 📁 Project Structure
 
@@ -31,7 +31,7 @@ rural-ecommerce-readiness/
 └── README.md                    # Project overview
 ```
 
----
+
 
 ## 🔟 Pipeline Stages
 
@@ -46,7 +46,7 @@ rural-ecommerce-readiness/
 9. **Model Explainability** - SHAP, LIME, and tree diagrams
 10. **Export Results** - Save models and preprocessing pipeline
 
----
+
 
 ## 📊 Evaluation Metrics
 
@@ -56,7 +56,7 @@ rural-ecommerce-readiness/
 - **R²**: Variance Explained
 - **Adjusted R²**: For OLS
 
----
+
 
 ## 🛠️ Tools & Libraries
 
@@ -64,7 +64,7 @@ rural-ecommerce-readiness/
 - `matplotlib`, `seaborn`, `yellowbrick`
 - `shap`, `lime`, `joblib`, `graphviz`
 
----
+
 
 ## 🚀 Getting Started
 
@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 3. Open and run the notebooks in order from `notebooks/` directory
 
----
+
 
 ## 📈 Future Work
 
@@ -85,7 +85,7 @@ pip install -r requirements.txt
 - Incorporate time-series trends (growth %)
 - Apply model to real-world data from development organizations
 
----
+
 
 ## 🤝 Contributors
 
@@ -99,4 +99,4 @@ pip install -r requirements.txt
 
 This project is part of a university dissertation and may be reused with proper attribution for academic purposes.
 
----
+
