@@ -9,7 +9,7 @@ This project aims to identify and model the most prominent factors affecting e-c
 
 ## 🧠 Key Features
 
-- **Data Source:** Simulated dataset resembling rural socioeconomic conditions
+- **Data Source:** Simulated dataset resembling socioeconomic conditions(Kaggle)
 - **Models Used:** OLS, Decision Tree (CART), Partial Least Squares Regression (PLSR)
 - **Feature Engineering:**
   - `Policy Coherence Score`: Measures digital governance alignment
@@ -81,7 +81,6 @@ pip install -r requirements.txt
 
 ## 📈 Future Work
 
-- Integrate with a Streamlit dashboard for live predictions
 - Incorporate time-series trends (growth %)
 - Apply model to real-world data from development organizations
 
